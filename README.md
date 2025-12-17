@@ -45,8 +45,10 @@
     pyinstaller --noconsole --onefile --name="每日清单" --icon=app_icon.ico main.py
     ```
     *(注：请确保目录下有 `app_icon.ico` 图标文件，如果没有，去掉 `--icon` 参数即可)*
+    
+    **建议自备 app_icon.ico` 文件**，因为目录下的实在是太丑了。
 
-3.  在 `dist` 文件夹中找到 `每日清单.exe` 即可使用。
+4.  在 `dist` 文件夹中找到 `每日清单.exe` 即可使用。
 
 ## 📂 项目结构
 

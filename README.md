@@ -1,4 +1,4 @@
-# 🌟 Glassy Todo List | 每日清单 (磨砂玻璃版)
+# 🌟 Daily_Todo | 每日清单
 
 > 一个高颜值、支持自定义背景与透明磨砂效果的 Windows 桌面待办事项应用。
 
@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Platform](https://img.shields.io/badge/platform-Windows-0078d7)
 
-**Glassy Todo List** 是一个基于 Python `Tkinter` 开发的轻量级任务管理工具。
+**Daily_Todo** 是一个基于 Python `Tkinter` 开发的轻量级任务管理工具。
 
 ## 🛠️ 安装与使用 (Installation)
 
@@ -53,7 +53,7 @@
 ## 📂 项目结构
 
 ```text
-daily-todo-list/
+Daily_Todo/
 ├── main.py              # 主程序代码
 ├── todo_data_final.json # 数据存储文件 (自动生成)
 ├── app_icon.ico         # 程序图标
